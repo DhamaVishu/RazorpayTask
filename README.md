@@ -26,7 +26,7 @@ Follows Material Design principles.
 Displays meaningful error and success messages.
 Code Quality:
 
-Built using modern Android architecture (MVVM, Jetpack Compose).
+Built using modern Android architecture (MVVM).
 Modular, testable codebase with well-structured components.
 Requirements
 Android Studio (latest stable version)
