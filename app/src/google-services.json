@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36264717564",
+    "project_id": "razorpaytask",
+    "storage_bucket": "razorpaytask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36264717564:android:d7ca6d0185185d1546fb79",
+        "android_client_info": {
+          "package_name": "com.example.razorpaytask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-1xot_eSAW47iw-ghDmfYlf870fnfWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
