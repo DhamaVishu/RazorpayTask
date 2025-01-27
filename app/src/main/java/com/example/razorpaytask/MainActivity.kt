@@ -129,7 +129,9 @@ class MainActivity : AppCompatActivity() {
                     firebaseAnalytics("Task Edited")
                 }else{
                     val task = TaskEntity(taskList.size,title = binding.tv3.text.toString(), completed = false)
+
                     taskViewModel.updateTask(task)
+
                     firebaseAnalytics("Task Added")
 
                 }

@@ -5,6 +5,7 @@ plugins {
     id("com.google.firebase.crashlytics")
     id("com.google.gms.google-services")
     id("kotlin-kapt")
+    id("com.google.firebase.firebase-perf")
 }
 
 android {
@@ -81,10 +82,10 @@ dependencies {
 
 
     // Firebase
-//    implementation ("com.google.firebase:firebase-auth-ktx")
-//    implementation ("com.google.firebase:firebase-messaging:24.0.2")
+
+    implementation(platform("com.google.firebase:firebase-bom:33.8.0"))
+    implementation("com.google.firebase:firebase-perf")
     implementation ("com.google.firebase:firebase-crashlytics:19.4.0")
-//    implementation ("com.google.firebase:firebase-dynamic-links-ktx:22.1.0")
     implementation ("com.google.firebase:firebase-core:21.1.1")
     implementation ("com.google.firebase:firebase-analytics")
 
