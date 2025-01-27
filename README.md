@@ -101,6 +101,28 @@ Network Fetch Failures:
 Check your internet connection or mock API server status.
 Ensure Retrofit or network library configuration is correct.
 License
+
+
+## crashlytics screenshot + mobile recording video
+
+![Screenshot ](https://github.com/user-attachments/assets/b6d6ac9e-0f11-45d9-9613-fa2036ccc2a7)
+
+https://github.com/user-attachments/assets/01c3b11c-f080-4480-81b6-40b4caa1c826
+
+## crashlytics analytics screenshot (This have all by default events in i have implemented thed custom events also but they take approx 24 hours to be visible on firebase console )
+![Screenshot ](https://github.com/user-attachments/assets/0ae60bc3-f961-49df-8539-8d085401596b)
+
+##Network performance screeshots 
+![Screenshot](https://github.com/user-attachments/assets/3b506f87-f276-452b-b753-a6c8fe11cd2e)
+
+![Screenshot](https://github.com/user-attachments/assets/8216b74a-152c-405a-98e1-0a06b6493aef)
+
+![Screenshot](https://github.com/user-attachments/assets/7132a002-01df-46af-af21-8c9c1af13517)
+
+
+
+
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contributing
